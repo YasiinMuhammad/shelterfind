@@ -31,7 +31,7 @@
     "bcryptjs": "^2.4.3",
     "dotenv": "^7.0.0",
     "express": "^4.16.4",
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "jwt-simple": "^0.5.5",
     "mongoose": "^5.9.15",
     "mongoose-delete": "^0.5.2",
